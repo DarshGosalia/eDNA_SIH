@@ -67,7 +67,7 @@ const Dashboard = () => {
       <div>
         <h1 className="text-3xl font-bold text-foreground">Dashboard</h1>
         <p className="text-muted-foreground mt-2">
-          Welcome to the CMLRE eDNA Analysis Platform. Monitor your biodiversity analysis projects and explore deep-sea ecosystems.
+          Welcome to the OceanNet eDNA Analysis Platform. Monitor your biodiversity analysis projects and explore deep-sea ecosystems.
         </p>
       </div>
 
