@@ -37,7 +37,7 @@ const Navigation = () => {
                 <Waves className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-lg font-bold text-foreground">CMLRE</h1>
+                <h1 className="text-lg font-bold text-foreground">OceanNet</h1>
                 <p className="text-xs text-muted-foreground">eDNA Analysis Platform</p>
               </div>
             </Link>

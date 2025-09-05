@@ -61,7 +61,7 @@ const Profile = () => {
                 <div>
                   <h2 className="text-xl font-semibold">Dr. Marina Rodriguez</h2>
                   <p className="text-muted-foreground">Senior Marine Biologist</p>
-                  <Badge className="mt-1 bg-primary-light text-primary">CMLRE Research Team</Badge>
+                  <Badge className="mt-1 bg-primary-light text-primary">OceanNet Research Team</Badge>
                 </div>
               </div>
 
@@ -189,7 +189,7 @@ const Profile = () => {
               </div>
               <div className="space-y-2">
                 <p className="font-medium text-sm">Environmental DNA Analysis</p>
-                <p className="text-xs text-muted-foreground">CMLRE Training Program</p>
+                <p className="text-xs text-muted-foreground">OcenaNet Training Program</p>
               </div>
             </CardContent>
           </Card>
